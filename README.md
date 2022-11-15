@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sv42008
+- 🌱 I’m currently learning django and web development to use with OpenAI
+- 💞️ I’m looking to collaborate on anything interesting, physics-y or generally science-y. I work for the greater good.
+- 📫 How to reach me: sv42008@gmail.com
